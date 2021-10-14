@@ -1,0 +1,49 @@
+.wrap{
+   width: 1335px;
+   display: flex;
+   background-color: #E7E7E7;
+   margin-top: 15px;
+
+
+
+   &__img{
+       display: block;
+   }
+
+
+    &__list{
+        margin: 0;
+        padding: 0;
+        display: flex;
+        text-decoration: none;
+        margin: 0;
+        margin-top: 15px;
+        margin-left: 20px;
+        padding: 0;
+       
+        
+       
+    }
+
+    &__item{
+        list-style-type: none;
+        font-family: "Montserrat", sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 15px;
+        color: #000000;
+        margin-right: 10px;
+    }
+
+    &__link:nth-child(1){
+        text-decoration: none;
+        color: #000000;
+        border-right: 1px solid #000000;
+        padding-right: 10px;
+      
+    }
+
+    
+ 
+}

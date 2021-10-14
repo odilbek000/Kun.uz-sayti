@@ -1,0 +1,41 @@
+.aside{
+    max-width: 1336px;
+    margin-top: 20px;
+
+    &__box{
+        width: 1336px;
+        height: 403px;
+        background-color: #F0F0F0;
+    }
+
+    &__img{
+        margin-bottom: 30px;
+    }
+
+    &__list{
+        display: flex;
+       
+    }
+
+
+    &__item{
+        width: 300px;
+        height: 333px;
+        margin-right: 20px;
+        margin-top: 30px;
+        margin-left:20px;
+        background-color: #fff;
+    }
+
+    &__text{
+        width: 260px;
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 20px;
+        color: #000000;
+    }
+
+
+}

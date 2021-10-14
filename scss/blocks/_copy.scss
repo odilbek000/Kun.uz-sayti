@@ -1,0 +1,42 @@
+.copy{
+    display: flex;
+
+
+
+    &__right{
+        margin-left: 50px;
+    }
+
+
+
+    &__wrapp{
+        display: flex;
+        margin-bottom: 15px;
+    }
+
+
+    &__text1{
+        width: 445px;
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 23px;
+        color: #000000;
+        margin-left: 10px;
+        background-color: #F0F0F0 ;
+    }
+
+
+    &__text{
+        width: 445px;
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 23px;
+        color: #000000;
+        margin-left: 10px;
+
+    }
+}

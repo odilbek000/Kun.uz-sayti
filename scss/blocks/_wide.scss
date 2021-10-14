@@ -1,0 +1,48 @@
+.wide{
+  display: flex;
+
+
+    &__wrap{
+        display: flex;
+        margin-top: 20px;
+
+    }
+
+
+    &__video{
+        width: 320px;
+
+    }
+
+    &__video2{
+        width: 320px;
+        margin-left: 20px;
+
+    }
+
+
+    &__video1{
+        width: 320px;
+        height: 196px;
+        border-radius: 5px;
+        
+    }
+
+
+    &__text{
+        width: 311px;
+        font-family: "Montserrat";
+        font-style: normal;
+        font-weight: bold;
+        font-size: 16px;
+        line-height: 19px;
+        color: #000000;
+    }
+
+
+    &__right{
+        margin-left: 20px;
+    }
+
+
+}
